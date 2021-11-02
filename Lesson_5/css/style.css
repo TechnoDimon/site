@@ -1,0 +1,83 @@
+/* &display=swap&subset=cyrillic-ext */
+
+/*@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,600&display=swap');*/
+
+*,
+*::before,
+*::after {
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+li {
+   list-style: none;
+}
+a,
+a:visited {
+   text-decoration: none;
+}
+a:hover {
+   text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-weight : inherit;
+   font-size: inherit;
+
+}
+img {
+   vertical-align: top;
+}
+html {
+   font-size: 16px;
+}
+body {
+   line-height: 1;
+}
+.wrapper {
+   min-width: 100%;
+   overflow: hidden;
+}
+/*---------------------------------------*/
+.block{
+   font-size: 50px;  
+
+   padding: 50px;
+}
+
+.inline {
+   font-size: 30px;
+
+   padding: 50px;
+
+   line-height: 150px;
+}
+
+.image {
+   width: 100%;
+   padding: 50px;
+}
+
+/*
+.block2 {
+   font-size: 50px;
+   padding: 50;
+   margin: 0px auto;
+   width: 50px;
+}
+
+.block3 {
+   font-size: 50px;
+   padding: 30px;
+   margin: 10px 0px 0px 15px;
+}
+
+.block {
+   width: 100%;
+   max-width: 30%;
+}
+*/
